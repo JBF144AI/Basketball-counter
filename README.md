@@ -1,12 +1,42 @@
-# Basketball-counter
- The smart basketball shot tracker is an ARDUINO powered training device that tracks shot attempts,made shots,rim hits,and airballs using sensors mounted on the hoop.Before each shot,the player presses a button to register an attempt,and the system determines the outcome of the shot
- 
- If you want to build it you must have these:
-1) arduino
-2) vibration sensor
-3) IR sensor (digital)
-4) led (5mm)
-5) some cables
-6) 1x button
-7) Arduino IDE on your computer
+ # Basketball-counter
+
+The smart basketball shot tracker is an ARDUINO powered training device that tracks shot attempts, made shots, rim hits, and airballs using sensors mounted on the hoop. Before each shot, the player presses a button to register the attempt, and the device automatically detects the shot result using vibration and IR sensors.
+
+## Features
+
+- **Shot Attempt Tracking** — Records each shot attempt via button press
+- **Made Shots Detection** — IR sensor detects when the ball passes through the net
+- **Rim Hits** — Vibration sensor identifies contact with the rim
+- **Airballs** — Distinguishes missed shots that don't touch the rim
+- **Real-time Feedback** — LED indicator shows shot results
+- **Training Data** — Logs statistics for player improvement
+
+## Required Components
+
+1. Arduino (Uno, Nano, or similar)
+2. Vibration Sensor (SW-420 or equivalent)
+3. IR Sensor (Digital - e.g., KY-039 or similar)
+4. LED (5mm)
+5. Resistor (220Ω for LED)
+6. Push Button (momentary switch)
+7. Jumper Cables
+8. Arduino IDE (installed on your computer)
+9. USB Cable (for Arduino programming)
+
+## How It Works
+
+1. **Button Press** — Player presses the button before attempting a shot, registering the attempt
+2. **Vibration Detection** — When the ball hits the rim, the vibration sensor triggers
+3. **IR Detection** — The IR sensor detects the ball passing through the net (made shot)
+4. **Result Logic**:
+   - **Made Shot** — Ball detected in net (IR sensor trigger)
+   - **Rim Hit** — Vibration detected but no net detection
+   - **Airball** — Neither rim vibration nor net detection
+5. **LED Feedback** — Lights up to indicate shot result
+6. **Data Logging** — Statistics are tracked (attempts, makes, percentage, etc.)
+
+## Assembly Instructions
+
+### Wiring Diagram
+
    
