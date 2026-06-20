@@ -34,8 +34,7 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
    - **Made Shot** — Ball detected in net (IR sensor trigger)
    - **Rim Hit** — Vibration detected but no net detection
    - **Airball** — Neither rim vibration nor net detection
-6. **LED** — Lights up to strat
-7. **Data Logging** — Statistics are tracked (attempts, makes, percentage, etc.)
+6. **Data Logging** — Statistics are tracked (attempts, makes, percentage, etc.)
 
 ## Assembly Instructions
 
