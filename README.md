@@ -27,7 +27,7 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
 ## How It Works
 
 1. **Button Press** — Player presses the button before attempting a shot, registering the attempt
-2. **LED** — Lights up to strat
+2. **LED** — Lights up to strat 
 3. **Vibration Detection** — When the ball hits the rim, the vibration sensor triggers
 4. **IR Detection** — The IR sensor detects the ball passing through the net (made shot)
 5. **Result Logic**:
