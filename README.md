@@ -3,7 +3,7 @@
 The smart basketball shot tracker is an ARDUINO powered training device that tracks shot attempts, made shots, rim hits, and airballs using sensors mounted on the hoop. Before each shot, the player presses a button to register the attempt, and the device automatically detects the shot result using vibration and IR sensors.
 
 ## Features
-
+ 
 - **Shot Attempt Tracking** — Records each shot attempt via button press
 - **Made Shots Detection** — IR sensor detects when the ball passes through the net
 - **Rim Hits** — Vibration sensor identifies contact with the rim
