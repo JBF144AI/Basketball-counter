@@ -11,7 +11,7 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
 - **Training Data** — Logs statistics for player improvement
 
 ## Required Components
-
+ 
 1. Arduino (Uno, Nano, or similar)
 2. Vibration Sensor (ky-002 or equivalent)
 3. IR Sensor (Digital - e.g., ir-08h or similar)
