@@ -1,4 +1,4 @@
- # Basketball-counter
+ # Basketball-counter 
 
 The smart basketball shot tracker is an ARDUINO powered training device that tracks shot attempts, made shots, rim hits, and airballs using sensors mounted on the hoop. Before each shot, the player presses a button to register the attempt, and the device automatically detects the shot result using vibration and IR sensors.
 
@@ -13,8 +13,8 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
 ## Required Components
 
 1. Arduino (Uno, Nano, or similar)
-2. Vibration Sensor (SW-420 or equivalent)
-3. IR Sensor (Digital - e.g., KY-039 or similar)
+2. Vibration Sensor (ky-002 or equivalent)
+3. IR Sensor (Digital - e.g., ir-08h or similar)
 4. LED (5mm)
 5. Resistor (220Ω for LED)
 6. Push Button (momentary switch)
