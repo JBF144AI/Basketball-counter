@@ -36,8 +36,8 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
    - **Airball** — Neither rim vibration nor net detection
 6. **Data Logging** — Statistics are tracked (attempts, makes, percentage, etc.)
 
-## Assembly Instructions
-
 ### Wiring Diagram
+
+Link:https://www.tinkercad.com/things/2WcNuUxIM9s-basketball-counter/editel
 
    
