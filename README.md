@@ -22,7 +22,7 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
 8. Arduino IDE (installed on your computer)
 9. USB Cable (for Arduino programming)
 10. Soldering rings (to put it in the hole)
-11. Some hot glue
+11. Some hot glue 
 
 ## How It Works
 
