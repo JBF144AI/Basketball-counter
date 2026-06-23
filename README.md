@@ -21,7 +21,7 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
 7. Jumper Cables
 8. Arduino IDE (installed on your computer)
 9. USB Cable (for Arduino programming)
-10. Soldering rings (to put it inside the hoop)
+10. Soldering rings (to put it in the hole)
 
 ## How It Works
 
@@ -32,6 +32,7 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
 5. **Result Logic**:
    - **Made Shot** — Ball detected in net (IR sensor trigger)
    - **Rim Hit** — Vibration detected but no net detection
+   - **Made the shot with a rim hit** - Vibration detected and net detection
    - **Airball** — Neither rim vibration nor net detection
 6. **Data Logging** — Statistics are tracked (attempts, makes, percentage, etc.)
 
