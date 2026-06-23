@@ -38,6 +38,6 @@ The smart basketball shot tracker is an ARDUINO powered training device that tra
 
 ### Wiring Diagram
 
-Link:https://www.tinkercad.com/things/2WcNuUxIM9s-basketball-counter/editel
+Link:https://www.tinkercad.com/things/2WcNuUxIM9s-basketball-counter
 
    
